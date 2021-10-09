@@ -1,10 +1,5 @@
 ### Hi there!! I`m Joas Melo. 👋
 
-- 🔭 I’m currently working on Liferay
-- 🌱 I’m currently learning javaScript
-- 📫 How to reach me: joasmelo8@gmail.com
-- 😄 Pronouns: He/they
-
 <div align="center">
   <a href="https://github.com/joasmelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joasmelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
